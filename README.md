@@ -10,7 +10,7 @@ We require you to solve the following tasks. Remember to read the requirements f
 
 Create a web page that matches the image below
 
-![Image of HTML simple page](html-css.png)
+![Image of HTML simple page](basic-html-css.png)
 
 **Powered by [Tech Academy](https://www.tech.edu.az/)**
 
